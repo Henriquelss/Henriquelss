@@ -15,4 +15,4 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e em busca de oportunidades para ingressar na área.
+
