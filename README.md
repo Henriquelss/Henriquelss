@@ -1,27 +1,11 @@
 # Henrique Lopes
 
-Desenvolvedor Frontend focado na construção de interfaces modernas, responsivas e acessíveis, com atenção à qualidade do código, experiência do usuário e manutenibilidade.
+Desenvolvedor Frontend com foco na criação de interfaces modernas, responsivas e acessíveis, priorizando qualidade de código, experiência do usuário e manutenibilidade.
 
 ---
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquellopes/)
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=henriquelss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="160"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelss&layout=compact&theme=dracula"
-    height="160"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
 
 ---
 
@@ -36,20 +20,39 @@ Desenvolvedor Frontend focado na construção de interfaces modernas, responsiva
 
 ---
 
-## 💼 O que faço
+## 💼 Atuação Profissional
 - Desenvolvimento de aplicações frontend escaláveis e bem estruturadas
 - Criação de componentes reutilizáveis e padronizados
-- Construção de interfaces responsivas com foco em usabilidade e acessibilidade
+- Implementação de layouts responsivos e acessíveis
 - Integração com APIs REST
-- Escrita de código limpo, legível e de fácil manutenção
+- Manutenção e evolução de bases de código
+- Aplicação de boas práticas de organização, legibilidade e performance
 
 ---
 
 ## 📌 Projetos em destaque
-- **Bill Calculator**  
-  Aplicação frontend para divisão de despesas em grupo, desenvolvida com React e JavaScript.
 
-- Outros projetos voltados à experiência do usuário, organização de componentes e boas práticas de frontend.
+### 📊 Leitor de Arquivos OFX
+Aplicação frontend desenvolvida com **React e TypeScript** para leitura e exibição detalhada de arquivos bancários no formato **.ofx**.
+
+**Principais funcionalidades:**
+- Upload e processamento de arquivos OFX
+- Visualização clara de transações de crédito e débito
+- Cálculo e exibição de totais por tipo de transação
+- Interface limpa, intuitiva e responsiva
+- Organização e tipagem forte dos dados para maior confiabilidade
+
+---
+
+### 🚗 Consulta FIPE de Veículos
+Aplicação web com foco em experiência do usuário para consulta rápida e precisa do valor **FIPE** de veículos.
+
+**Principais funcionalidades:**
+- Seleções em cascata para escolha de **marca, modelo e ano**
+- Exibição de informações detalhadas do veículo
+- Interface responsiva e de fácil navegação
+- Comunicação com API pública para obtenção dos dados
+- Estrutura frontend organizada e reutilizável
 
 ---
 
