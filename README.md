@@ -1,6 +1,6 @@
 # Henrique Lopes
 
-Desenvolvedor Frontend com foco na criação de interfaces modernas, responsivas e acessíveis, priorizando qualidade de código, experiência do usuário e manutenabilidade.
+Desenvolvedor FullStack com foco na criação de interfaces modernas, responsivas e acessíveis, priorizando qualidade de código, experiência do usuário e manutenabilidade.
 
 ---
 
