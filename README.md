@@ -2,7 +2,6 @@
 
 Desenvolvedor FullStack com foco na criação de interfaces modernas, responsivas e acessíveis, priorizando qualidade de código, experiência do usuário e manutenabilidade.
 
----
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquellopes/)
