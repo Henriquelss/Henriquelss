@@ -10,7 +10,7 @@ Engenheiro de Software com mais de 2 anos de experiência no ecossistema web mod
 
 <p left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,java,spring,nodejs,postgres,prisma,docker,git,vite" />
+    <img src="https://skillicons.dev/icons?i=ts,java,spring,nodejs,postgres,prisma,docker" />
   </a>
 </p>
 
