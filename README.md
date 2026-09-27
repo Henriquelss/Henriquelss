@@ -2,30 +2,43 @@
 
 ` Software Engineer `
 
-Engenheiro de Software com mais de 2 anos de experiência no ecossistema web moderno, especializado em **React.js**, **Next.js**, **TypeScript** e **Tailwind CSS**. Possuo forte atuação no desenvolvimento de interfaces de alta performance, componentes reutilizáveis e arquiteturas limpas, além de experiência em backend e APIs com **Node.js**, **Java**, **Spring Boot**, **Docker**, **PostgreSQL** e **Prisma ORM**. Experiente em consumo de APIs RESTful, gerenciamento de estado avançado e metodologias ágeis em ambientes colaborativos.
+Software Engineer with over 2 years of experience in the modern web ecosystem, specializing in **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Proven track record in developing high-performance interfaces, reusable component architectures, and clean code solutions, alongside backend experience with **Node.js**, **Java**, **Spring Boot**, **Docker**, **PostgreSQL**, and **Prisma ORM**. Experienced in RESTful API integration, advanced state management, and agile methodologies in collaborative team environments.
 
 ---
 
 ### Languages and Tools
 
-<p left>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,spring,nodejs,postgres,prisma,docker" />
-  </a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </p>
 
 ---
 
-### Principais Projetos
-
-* **Sistema de Gerenciamento de Estoque Corporativo:** Solução web ponta a ponta desenvolvida em **Next.js**, **TypeScript**, **PostgreSQL** e **Prisma ORM** com rastreabilidade completa de dados.
-* **Plataforma de Agendamento em Tempo Real:** Sistema interativo focado na verificação algorítmica de disponibilidade em tempo real e eliminação de conflitos de agenda.
-* **Analisador de Arquivos Financeiros (OFX para JSON):** Componente performático desenvolvido em **React** e **Vite** para parse estruturado e exibição dinâmica de dados bancários.
-* **Aplicação de Consulta Veicular:** Aplicação responsiva integrada à API pública da Tabela FIPE utilizando hooks customizados e Tailwind CSS.
-
----
-
-### Contato
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquellopes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquels.dev@gmail.com)
