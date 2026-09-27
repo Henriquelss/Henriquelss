@@ -27,7 +27,3 @@ Software Engineer with over 2 years of experience in the modern web ecosystem, s
   &nbsp;&nbsp;
 </p>
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquellopes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquels.dev@gmail.com)
