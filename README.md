@@ -4,7 +4,7 @@
 
 Software Engineer with over 2 years of experience in the modern web ecosystem, specializing in **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**. Proven track record in developing high-performance interfaces, reusable component architectures, and clean code solutions, alongside backend experience with **Node.js**, **Java**, **Spring Boot**, **Docker**, **PostgreSQL**. Experienced in RESTful API integration, advanced state management, and agile methodologies in collaborative team environments.
 
----
+
 
 ### Languages and Tools
 
